@@ -1,0 +1,252 @@
+{
+  "recipes": [
+    {
+      "id": "egg_fried_rice",
+      "name": "Egg Fried Rice",
+      "aliases": ["nasi goreng telur", "egg rice"],
+      "category": "Main Dish",
+      "difficulty": "easy",
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 10,
+      "servings": 1,
+      "ingredients": [
+        "1 cup cooked rice",
+        "2 eggs",
+        "1 tablespoon oil",
+        "1 tablespoon soy sauce",
+        "Salt"
+      ],
+      "steps": [
+        "Heat oil in a pan.",
+        "Scramble the eggs until half cooked.",
+        "Add rice and mix well.",
+        "Add soy sauce and salt.",
+        "Cook for two minutes and serve."
+      ]
+    },
+
+    {
+      "id": "simple_fried_noodles",
+      "name": "Simple Fried Noodles",
+      "aliases": ["mee goreng", "fried noodles"],
+      "category": "Main Dish",
+      "difficulty": "easy",
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 10,
+      "servings": 1,
+      "ingredients": [
+        "1 packet yellow noodles",
+        "1 egg",
+        "2 cloves garlic, chopped",
+        "1 tablespoon oil",
+        "1 tablespoon soy sauce"
+      ],
+      "steps": [
+        "Heat oil in a pan.",
+        "Add garlic and cook until fragrant.",
+        "Crack in the egg and scramble.",
+        "Add noodles and soy sauce.",
+        "Stir fry for three minutes and serve."
+      ]
+    },
+
+    {
+      "id": "spaghetti_bolognese_simple",
+      "name": "Simple Spaghetti Bolognese",
+      "aliases": ["spaghetti bolognese", "bolognese pasta", "spaghetti meat sauce"],
+      "category": "Main Dish",
+      "difficulty": "easy",
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 15,
+      "servings": 1,
+      "ingredients": [
+        "100 grams spaghetti",
+        "150 grams minced meat",
+        "2 cloves garlic, chopped",
+        "1 small onion, chopped",
+        "1 cup tomato sauce",
+        "1 tablespoon cooking oil",
+        "Salt",
+        "Black pepper"
+      ],
+      "steps": [
+        "Boil spaghetti in salted water until soft, then drain.",
+        "Heat oil in a pan over medium heat.",
+        "Add garlic and onion and cook until fragrant.",
+        "Add minced meat and cook until browned.",
+        "Add tomato sauce, salt, and black pepper.",
+        "Simmer for five minutes.",
+        "Mix sauce with spaghetti and serve."
+      ]
+    },
+
+    {
+      "id": "mac_and_cheese_simple",
+      "name": "Simple Mac and Cheese",
+      "aliases": ["mac and cheese", "macaroni cheese", "cheesy pasta"],
+      "category": "Main Dish",
+      "difficulty": "easy",
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 10,
+      "servings": 1,
+      "ingredients": [
+        "1 cup macaroni",
+        "1 cup milk",
+        "1 slice cheese or 1/2 cup grated cheese",
+        "1 tablespoon butter",
+        "Salt",
+        "Black pepper"
+      ],
+      "steps": [
+        "Boil macaroni in salted water until soft, then drain.",
+        "Heat butter in a pan over low heat.",
+        "Add milk and warm gently.",
+        "Add cheese and stir until melted.",
+        "Season with salt and black pepper.",
+        "Add macaroni to the sauce and mix well.",
+        "Serve hot."
+      ]
+    },
+
+    {
+      "id": "egg_bread_toast",
+      "name": "Egg Bread Toast",
+      "aliases": ["roti telur", "egg toast"],
+      "category": "Breakfast",
+      "difficulty": "easy",
+      "prep_time_minutes": 2,
+      "cook_time_minutes": 5,
+      "servings": 1,
+      "ingredients": [
+        "2 slices bread",
+        "1 egg",
+        "Salt",
+        "Butter or oil"
+      ],
+      "steps": [
+        "Beat the egg with a pinch of salt.",
+        "Dip bread into the egg mixture.",
+        "Heat butter in a pan.",
+        "Cook bread until golden on both sides.",
+        "Serve hot."
+      ]
+    },
+
+    {
+      "id": "plain_omelette",
+      "name": "Plain Omelette",
+      "aliases": ["telur dadar", "simple omelette"],
+      "category": "Side Dish",
+      "difficulty": "easy",
+      "prep_time_minutes": 2,
+      "cook_time_minutes": 5,
+      "servings": 1,
+      "ingredients": [
+        "2 eggs",
+        "Salt",
+        "Oil"
+      ],
+      "steps": [
+        "Beat eggs with salt.",
+        "Heat oil in a pan.",
+        "Pour in eggs and cook until set.",
+        "Flip once and serve."
+      ]
+    },
+
+    {
+      "id": "simple_soy_sauce_chicken",
+      "name": "Simple Soy Sauce Chicken",
+      "aliases": ["ayam kicap", "soy sauce chicken"],
+      "category": "Main Dish",
+      "difficulty": "easy",
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 12,
+      "servings": 2,
+      "ingredients": [
+        "200 grams chicken, sliced",
+        "2 cloves garlic, chopped",
+        "1 tablespoon oil",
+        "2 tablespoons soy sauce",
+        "A small amount of water"
+      ],
+      "steps": [
+        "Heat oil in a pan.",
+        "Add garlic and cook until fragrant.",
+        "Add chicken and cook until done.",
+        "Add soy sauce and water.",
+        "Simmer for five minutes and serve."
+      ]
+    },
+
+    {
+      "id": "egg_drop_soup",
+      "name": "Egg Drop Soup",
+      "aliases": ["sup telur", "egg soup"],
+      "category": "Soup",
+      "difficulty": "easy",
+      "prep_time_minutes": 2,
+      "cook_time_minutes": 7,
+      "servings": 1,
+      "ingredients": [
+        "1 egg",
+        "1 cup water",
+        "Salt",
+        "White pepper"
+      ],
+      "steps": [
+        "Bring water to a boil.",
+        "Beat the egg lightly.",
+        "Pour egg slowly into boiling water.",
+        "Add salt and white pepper.",
+        "Stir gently and serve."
+      ]
+    },
+
+    {
+      "id": "egg_sandwich",
+      "name": "Egg Sandwich",
+      "aliases": ["sandwich telur", "egg mayo sandwich"],
+      "category": "Snack",
+      "difficulty": "easy",
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 0,
+      "servings": 1,
+      "ingredients": [
+        "2 slices bread",
+        "1 boiled egg",
+        "Mayonnaise",
+        "Salt"
+      ],
+      "steps": [
+        "Mash the boiled egg in a bowl.",
+        "Add mayonnaise and salt.",
+        "Spread the mixture on bread.",
+        "Close sandwich and serve."
+      ]
+    },
+
+    {
+      "id": "hot_milk_tea",
+      "name": "Hot Milk Tea",
+      "aliases": ["teh susu", "milk tea"],
+      "category": "Drink",
+      "difficulty": "easy",
+      "prep_time_minutes": 2,
+      "cook_time_minutes": 5,
+      "servings": 1,
+      "ingredients": [
+        "1 tea bag",
+        "1 cup hot water",
+        "2 tablespoons milk",
+        "Sugar to taste"
+      ],
+      "steps": [
+        "Place tea bag in a cup.",
+        "Add hot water and steep for two minutes.",
+        "Add milk and sugar.",
+        "Stir and serve hot."
+      ]
+    }
+  ]
+}
