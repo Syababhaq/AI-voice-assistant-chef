@@ -1,0 +1,13 @@
+pyaudio 
+pyttsx3 
+ollama 
+vosk
+pygame
+keyboard
+langchain 
+langchain-community 
+chromadb 
+sentence-transformers 
+
+model: vosk-model-small-en-us-0.15
+bash: ollama pull llama3.2
