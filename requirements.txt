@@ -1,13 +1,13 @@
-pyaudio 
-pyttsx3 
-ollama 
-vosk
-pygame
-keyboard
-langchain 
-langchain-community 
-chromadb 
-sentence-transformers 
+vosk==0.3.45
+pyaudio==0.2.14
+pyttsx3==2.90
+pygame==2.5.2
+ollama==0.1.6
+langchain-community==0.0.10
+chromadb==0.4.22
+sentence-transformers==2.3.1
+keyboard==0.13.5
+numpy
 
 model: vosk-model-small-en-us-0.15
 bash: ollama pull llama3.2
