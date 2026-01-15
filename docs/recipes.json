@@ -26,8 +26,8 @@
     },
 
     {
-      "id": "simple_fried_noodles",
-      "name": "Simple Fried Noodles",
+      "id": "fried_noodles",
+      "name": "Fried Noodles",
       "aliases": ["mee goreng", "fried noodles"],
       "category": "Main Dish",
       "difficulty": "easy",
@@ -51,8 +51,8 @@
     },
 
     {
-      "id": "spaghetti_bolognese_simple",
-      "name": "Simple Spaghetti Bolognese",
+      "id": "spaghetti_bolognese",
+      "name": "Spaghetti Bolognese",
       "aliases": ["spaghetti bolognese", "bolognese pasta", "spaghetti meat sauce"],
       "category": "Main Dish",
       "difficulty": "easy",
@@ -81,8 +81,8 @@
     },
 
     {
-      "id": "mac_and_cheese_simple",
-      "name": "Simple Mac and Cheese",
+      "id": "mac_and_cheese",
+      "name": "Mac and Cheese",
       "aliases": ["mac and cheese", "macaroni cheese", "cheesy pasta"],
       "category": "Main Dish",
       "difficulty": "easy",
@@ -155,8 +155,8 @@
     },
 
     {
-      "id": "simple_soy_sauce_chicken",
-      "name": "Simple Soy Sauce Chicken",
+      "id": "soy_sauce_chicken",
+      "name": "Soy Sauce Chicken",
       "aliases": ["ayam kicap", "soy sauce chicken"],
       "category": "Main Dish",
       "difficulty": "easy",
